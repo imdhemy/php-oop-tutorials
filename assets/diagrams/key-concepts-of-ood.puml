@@ -1,0 +1,26 @@
+@startmindmap
+* Object oriented Design
+
+** Objects
+*** Data
+*** Operations
+
+** Classes
+*** Categories
+*** Relations
+
+** Abstraction
+*** Interfaces
+*** Abstract classes
+
+** UML
+
+** Standard Solutions
+*** Design Patterns
+
+** Analysis process
+
+** Extendability and Adaptability
+*** Inheritance
+*** Composition
+@endmindmap
